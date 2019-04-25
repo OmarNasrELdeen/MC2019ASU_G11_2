@@ -5,7 +5,7 @@ Smart Home Project using TM4C123
 Faculty of Engineering-ASU Students-Group G11 
 
 
-#GROUP11
+# GROUP11
 
 
 Kareem Salah 
