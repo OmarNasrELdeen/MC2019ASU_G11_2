@@ -1,8 +1,8 @@
 <h1>Smart Home Project</h1>
 
 
-<!--<img src = "">-->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7RAbdAztdfc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<img src = "https://github.com/OmarNasrELdeen/MC2019ASU_G11_2/blob/master/Video/Project.jpg" width="560" height="315">
+<!--<iframe width="560" height="315" src="https://www.youtube.com/embed/7RAbdAztdfc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
 
 <ul>
 	<li>This project is implemented using two tm4c123gh6pm Microcontrollers, a stepper motor, an LCD, and other components</li>
@@ -71,12 +71,12 @@
 		<a href = "https://github.com/OmarNasrELdeen/MC2019ASU_G11_2/blob/master/Report/Report.docx">Report</a>
 	</li>
 </ul>
-<!--<h2>Vedio</h2>
+<h2>Vedio</h2>
 <ul>
 	<li>
 		<a href = "https://www.youtube.com/watch?v=7RAbdAztdfc">Click for a Demo</a>
 	</li>
-</ul>-->
+</ul>
 
 
 <h2>Authors</h2> 
