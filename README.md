@@ -71,7 +71,7 @@
 		<a href = "https://github.com/OmarNasrELdeen/MC2019ASU_G11_2/blob/master/Report/Report.docx">Report</a>
 	</li>
 </ul>
-<h2>Vedio</h2>
+<h2>Video</h2>
 <ul>
 	<li>
 		<a href = "https://www.youtube.com/watch?v=7RAbdAztdfc">Click for a Demo</a>
