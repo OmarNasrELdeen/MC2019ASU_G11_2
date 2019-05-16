@@ -1,7 +1,7 @@
 <h1>Smart Home Project</h1>
 
 
-<img src = "https://github.com/OmarNasrELdeen/MC2019ASU_G11_2/blob/master/Video/Project_2_1.jpg" width="560" height="315">
+<img src = "https://github.com/OmarNasrELdeen/MC2019ASU_G11_2/blob/master/Video/project_2_1.jpg" width="560" height="315">
 <!--<iframe width="560" height="315" src="https://www.youtube.com/embed/7RAbdAztdfc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
 
 <ul>
